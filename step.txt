@@ -1,0 +1,40 @@
+TODO
+Setup of express server : Done  
+mongoDb connection : Done
+
+Set the EJS to express view engine : Done
+
+Register Page : Done
+Register API : Done
+
+Login Page : Done
+Login API : Done
+
+Session Base Auth : Done
+Auth Middleware : Done
+
+Dashboard Page (Todo Page) : Done
+logout : Done
+logout from all the devices : Done
+
+Todo API's
+create : Done
+read : Done
+edit : Done
+delete : Done
+
+Dashboard : Done
+Axios : Done
+Create : Done
+edit : Done
+delete : Done
+Read Component : Done
+
+Pagination API : Done
+Rate limiting
+Deployment (heroku, railway.com, render.com, vercel)
+
+JWT Email Authentication
+
+
+schema, queries, operators, aggregate, populate.
